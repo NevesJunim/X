@@ -323,12 +323,3 @@ footer .interface p{
         display: none;
     }
 }
-section.especialidades{
-    padding: 40px 8%;
-}
-.socialmedia a{
-    text-align: center;
-}
-footer .flex{
-    flex-direction: column;
-}
